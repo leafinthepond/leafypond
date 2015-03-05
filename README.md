@@ -1,2 +1,2 @@
 # leafypond
-1st practive repo
+1st practice repo
